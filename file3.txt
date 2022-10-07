@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 3rd file of html-assignment branch
+=======
+3rd file of html-assignment branch
+file 3
+>>>>>>> html-assignments

@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 2nd file of html-assignment branch
+=======
+2nd file of html-assignment branch
+
+file 2 is going to get changed
+>>>>>>> html-assignments
