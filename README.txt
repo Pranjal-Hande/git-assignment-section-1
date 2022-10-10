@@ -5,3 +5,5 @@ When you want to add new feature or fix bug—no matter how big or how small—y
 more changes in the readme file from master branch
 
 this is readme file of main branch
+
+It gives detailed information of changes made by every developer.
